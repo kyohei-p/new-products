@@ -1,3 +1,113 @@
-created 2023/4/1
+- アプリケーションの概要 - 
+ITエンジニアの職種別適性診断アプリ
+フロントエンド、バックエンド、インフラ、セキュリティなどの数多くの職種が存在しているIT/Web業界。
+その中でユーザー自身が得意な領域を診断し、転職やスキルアップ、独立等の個人の目的に合わせて効率的に学習を進めていくためのWebアプリです。
 
+利用者が30万人を超えた人気の某自己分析ツールの開発者（実名非公開）監修のもと、IT職種別の適性診断を行う。
+心理学や脳科学の知見もまじえて、履歴書や職務経歴書からは読み取れないユーザーの才能を発掘していく。
+
+- 動作環境 - 
+Windows
+
+・Microsoft Edge（最新版）
+・Google Chrome（最新版）
+・Mozilla Firefox（最新版）
+
+
+macOS
+
+・Safari（最新版）
+・Google Chrome（最新版）
+・Mozilla Firefox（最新版）
+
+
+iOS
+
+・Mobile Safari（最新版）
+
+
+Android
+
+・Chrome（最新版）
+※Internet Explorer（IE）は非推奨です。
+
+
+- アプリケーションの使い始め方 - 
+Webブラウザから使用。URLは未定
+使用方法について、別途記載する。
+
+- バグや要望の報告方法 - 
+報告手段や連絡ルートについて検討中。
+
+- 開発のゴール
+Webアプリ上でユーザーが会員登録し、マイページを見れること
+適性診断ページの閲覧と診断ができること
+各エンジニアに必要な知識やスキルセットを確認できるページの作成
+IT転職に必要な職務経歴書やスキルシート、ポートフォリオの作成方法がわかるページの作成
+診断履歴の確認ページ
+その他IT業界関連記事の共有ページ作成
+お問い合わせフォームの作成
+
+- 顧客情報 - 
+プライバシーポリシーの都合により、非公開
+
+- 開発体制 - 
+バックエンド：5名
+フロントエンド：3名
+インフラ：2名
+PO:1名
+PM：1名
+PL:1名
+
+
+- 開発に必要な技術 - 
+バックエンド：Ruby(RubyonRails)
+フロント：Vue.js(Nuxt.js)
+インフラ：AWS
+デプロイ：Heroku
+テスト：Rspec
+OS：MacOS,WindowsOSどちらも可
+
+開発に利用するOS・統合開発環境・ライブラリ・フレームワーク・クラウドなどを書きます。新しく参加した開発メンバーのために用意しなければならない有償製品へのライセンスやクラウドアカウントの用意を忘れることがなくなるでしょう。
+- 開発環境の構築方法と実行方法 - 新しく参加した開発メンバーが、助けなしに開発環境を構築し、アプリケーションの開発に入れるようにします。
+
+
+- デバッグ方法や自動テストの方法など、最低限知ってほしいもの
+デバッグ：以下のような方法を検討中。
+better_errors,byebug,pry-byebug
+
+テスト：Rspecの経験あれば尚可
+
+- 仕様書・設計書・コーディング規約・アーキテクチャ図などのドキュメントへのリンク
+（要件定義内容）
+ユーザーストーリー
+テーブル定義書
+ER図
+画面一覧（Figmaで作成）
+API一覧
+
+（コーディング規約）
+Ruby
+[Rubyアソシエーション: コーディング規約](https://www.ruby.or.jp/ja/tech/development/ruby/050_coding_rule.html)
+Rails
+[The Rails Style Guide](https://github.com/rubocop/rails-style-guide/blob/master/README.adoc) / [日本語訳](https://github.com/satour/rails-style-guide/blob/master/README-jaJA.md)
+Rspec
+[Better Specs. Testing Guidelines for Developers.](https://www.betterspecs.org/)
+
+
+- 参考になる書籍やウェブサイトへのリンク
+[エンジニアの勉強におすすめの本23選！初心者向けなどジャンル別に紹介](https://web-camp.io/magazine/archives/72021)
+※随時更新していく
+
+
+created 2023/4/1
+created by kyohei.yoshida 
+*
+*
+*
+*
+*
+*
+*
+*
 USO
